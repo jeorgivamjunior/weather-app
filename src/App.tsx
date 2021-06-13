@@ -20,7 +20,7 @@ function App() {
       <PersistGate loading={null} persistor={persistor}>
         <ThemeProvider theme={theme}>
           <ToastContainer />
-          <BrowserRouter>
+          <BrowserRouter basename={process.env.PUBLIC_URL}>
             <RouterConfig />
           </BrowserRouter>
         </ThemeProvider>
