@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/weather-app/static/js/main.316ec9aa.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.316ec9aa.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.fdebdbfc.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.fdebdbfc.js.map",
+    "static/css/2.3acd57a3.chunk.css": "/weather-app/static/css/2.3acd57a3.chunk.css",
+    "static/js/2.67fcd679.chunk.js": "/weather-app/static/js/2.67fcd679.chunk.js",
+    "static/js/2.67fcd679.chunk.js.map": "/weather-app/static/js/2.67fcd679.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.3acd57a3.chunk.css.map": "/weather-app/static/css/2.3acd57a3.chunk.css.map",
+    "static/js/2.67fcd679.chunk.js.LICENSE.txt": "/weather-app/static/js/2.67fcd679.chunk.js.LICENSE.txt",
+    "static/media/not-found.703e663c.svg": "/weather-app/static/media/not-found.703e663c.svg",
+    "static/media/index.css": "/weather-app/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdebdbfc.js",
+    "static/css/2.3acd57a3.chunk.css",
+    "static/js/2.67fcd679.chunk.js",
+    "static/js/main.316ec9aa.chunk.js"
+  ]
+}
