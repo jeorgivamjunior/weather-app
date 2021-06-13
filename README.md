@@ -1,6 +1,6 @@
 # Weather App
 
-[Open Demo](http://localhost:3000)
+[Open Demo](http://jeorgivamjunior.github.io/weather-app)
 
 ## Available Scripts
 
